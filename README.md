@@ -38,3 +38,17 @@ This project performs real-time facial emotion detection using a Convolutional N
 - Improve accuracy using deeper CNN
 - Deploy as web application
 - Add confidence score display
+
+## Results
+
+### Happy
+![Happy](results/happy.png)
+
+### Sad
+![Sad](results/sad.png)
+
+### Angry
+![Angry](results/angry.png)
+
+### Surprise
+![Surprise](results/surprise.png)  
