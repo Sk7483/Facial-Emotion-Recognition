@@ -42,13 +42,13 @@ This project performs real-time facial emotion detection using a Convolutional N
 ## Results
 
 ### Happy
-![Happy](results/happy.png)
+![Happy](results/happy.png.png)
 
 ### Sad
-![Sad](results/sad.png)
+![Sad](results/sad.png.png)
 
 ### Angry
-![Angry](results/angry.png)
+![Angry](results/angry.png.png)
 
-### Surprise
-![Surprise](results/surprise.png)  
+### neutral
+![neutral](results/neutral.png.png)  
